@@ -35,6 +35,9 @@ abstract class AppColors {
   Color get surface700;
   Color get surface800;
   Color get surface900;
+  //background color shades===================
+
+  Color get background;
 
   //Additional Colors=================
 }
